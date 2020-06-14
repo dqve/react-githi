@@ -1,6 +1,8 @@
-import React, {
-    Component
-} from 'react'
+import React, {Component} from 'react
+import Link from '../components/Link/Link'
+import './Profile.css'
+
+
 
 class Profile extends Component {
     constructor() {
