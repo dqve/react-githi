@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const List = ({items}) => (
 	<ul>
@@ -10,4 +10,4 @@ const List = ({items}) => (
 	</ul>
 );
 
-export default List;
+export default List
