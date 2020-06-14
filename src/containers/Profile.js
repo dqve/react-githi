@@ -2,7 +2,6 @@ import React, {Component} from 'react'
 import styled from 'styled-components';
 import Link from '../components/Link/Link'
 import List from '../components/List/List'
-import './Profile.css'
 
 const ProfileWrapper = styled.div`
  width: 50%;
